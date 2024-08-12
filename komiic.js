@@ -6,12 +6,12 @@ class Komiic extends ComicSource {
     // 唯一标识符
     key = "Komiic"
 
-    version = "1.0.3"
+    version = "1.0.4"
 
     minAppVersion = "3.1.0"
 
     // 更新链接
-    url = "https://raw.githubusercontent.com/wgh136/pica_configs/master/komiic.js"
+    url = "https://raw.githubusercontent.com/falling7down/pica_configs/master/komiic.js"
 
     get headers() {
         let token = this.loadData('token')
