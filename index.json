@@ -9,12 +9,18 @@
         "name": "Komiic",
         "fileName": "komiic.js",
         "key": "Komiic",
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     {
         "name": "爱看漫",
         "fileName": "ikmmh.js",
         "key": "ikmmh",
         "version": "1.1.1"
+    },
+    {
+        "name": "NoyAcg",
+        "fileName": "noyacg.js",
+        "key": "NoyAcg",
+        "version": "1.0.0"
     }
 ]
